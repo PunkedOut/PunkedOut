@@ -6,7 +6,7 @@
 
 
 <a href="https://github.com/PunkedOut/Punked-Remastered">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PunkedOut&repo=Punked-Remastered&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PunkedOut&repo=Punked-RE&theme=github_dark" />
 </a>
 
 
